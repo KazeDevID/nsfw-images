@@ -1,0 +1,26 @@
+{
+  "name": "Nsfw-images",
+  "version": "1.0.0",
+  "description": "grabs images from websites",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "nsfw",
+    "reddit",
+    "danbooru",
+    "porn",
+    "hentai",
+    "kazesolo"
+  ],
+  "homepage": "https://github.com/KazeDevID/nsfw-images#readme",
+  "bugs": {
+    "url": "https://github.com/KazeDevID/nsfw-images/issues"
+  },
+  "author": "Kaze",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
