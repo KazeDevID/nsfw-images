@@ -1,7 +1,7 @@
 {
-  "nama" : "nsfw-gambar" ,
+  "name" : "nsfw-images" ,
   "version": "1.0.0",
-  "description" : "mengambil gambar dari situs web" ,
+  "description" : "grabs images from websites" ,
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
